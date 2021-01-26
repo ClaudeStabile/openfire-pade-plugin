@@ -1,6 +1,9 @@
 var branding = {
+    "converseTheme"           : {"disable": false, "value": "Fly Concord"},
+    "conversePlaySounds"      : {"disable": false, "value": true},
     "publishLocation"         : {"disable": false, "value": true},
     "enableHomePage"          : {"disable": true, "value": false},
+    "converseEmbedOfMeet"     : {"disable": false, "value": true},
     "homePage"                : {"disable": true, "value": "https://www.free-solutions.ch"},
     "ofmeetUrl"               : {"disable": false, "value": "https://pade.chat:5443/ofmeet/"},
     "showToolbarIcons"        : {"disable": false, "value": true},
